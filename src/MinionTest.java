@@ -1,13 +1,12 @@
+
 /*
  *    Copyright (c) The League of Amazing Programmers 2013-2018
  *    Level 1
  */
 
-
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
-
 
 /*
 
@@ -21,6 +20,7 @@ This is because there is no Minion class in the package.
 
   			private String name; 
   			private int eyes; 
+  			
   			private String color; 
   			private String master;
 
@@ -31,6 +31,29 @@ This is because there is no Minion class in the package.
   To check, run this MinionTest class and the JUnit tab should show a GREEN bar.
     
  */
+public class minion {
+	String name;
+	int eyes;
+	String color;
+	String master;
+
+	void name() {
+
+	}
+
+	void eyes() {
+
+	}
+
+	void color() {
+
+	}
+
+	void master() {
+
+	}
+
+}
 
 public class MinionTest {
 
@@ -59,6 +82,3 @@ public class MinionTest {
 	}
 
 }
-
-
-
