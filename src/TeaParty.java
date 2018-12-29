@@ -1,8 +1,11 @@
 
 public class TeaParty {
 
-	public TeaParty() {
-		// TODO Auto-generated constructor stub
-	}
+	 public String welcome(String name, boolean isWoman, boolean isKnighted)
+     {
+		return name;
+
+     }
+
 
 }
